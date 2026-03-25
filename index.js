@@ -44,7 +44,7 @@ const settings = {
   linkYoutube: "https://www.youtube.com/@Jun×Ganz"
 };
 
-global.apikey = ["skyy", "rz"]
+global.apikey = ["jun", "duhaduh"]
 
 app.use((req, res, next) => {
   const originalJson = res.json;
